@@ -24,6 +24,16 @@ module hamming_encoder_tb(
 
     );
     
+    reg [3:0] data_in;
+    wire [6:0] data_out;
     
+    hamming_encoder dut(data_in, data_out);
+    
+    initial
+        begin
+            data_in = 4'b1101;
+            #1;
+            $display("the value of data_out is %b", data_out);
+        end
     
 endmodule
