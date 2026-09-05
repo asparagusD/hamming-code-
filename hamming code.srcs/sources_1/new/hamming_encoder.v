@@ -21,6 +21,7 @@
 
 
 module hamming_encoder(
-
+    input [3:0] data_in, 
+    output [6:0] data_out
     );
 endmodule
