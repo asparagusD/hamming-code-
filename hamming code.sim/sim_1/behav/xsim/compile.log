@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "G:/dv_verilog/hamming code/hamming code.srcs/sources_1/new/hamming_encoder.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module hamming_encoder
-INFO: [VRFC 10-2263] Analyzing Verilog file "G:/dv_verilog/hamming code/hamming code.srcs/sim_1/new/hamming_encoder_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module hamming_encoder_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "G:/dv_verilog/hamming code/hamming code.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

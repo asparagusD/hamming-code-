@@ -1,2 +1,5 @@
 Time resolution is 1 ps
 the value of data_out is 1100110
+data received by decoder is 1100111
+the value of error_pos is 001
+corrected code from the decoder is 1100110
